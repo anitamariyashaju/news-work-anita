@@ -1,0 +1,1 @@
+This is your one stop to get all the latest news and updates from Kerala Tourism. 

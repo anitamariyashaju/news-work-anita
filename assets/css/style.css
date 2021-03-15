@@ -1,0 +1,60 @@
+
+  form, p {
+    margin: 10px;
+    text-align: center;
+  }
+ 
+  p.note {
+    font-size: 1rem;
+    color: red;
+  }
+  
+  input {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 7px;
+    font-family: 'Lato';
+    width: 300px;
+    margin-top: 50px;
+  }
+  label {
+    width: 300px;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 50px;
+ 
+  }
+  label span {
+    font-size: 1rem;
+  }
+  
+  label.error {
+      color: red;
+      font-size: 1rem;
+      display: block;
+      margin-top: 5px;
+      margin-left: 100px;
+     
+  }
+  
+  input.error {
+      border: 1px dashed red;
+      font-weight: 300;
+      color: red;
+  }
+  
+  [type="submit"], [type="reset"], button, html [type="button"] {
+      margin-left: 0;
+      border-radius: 0;
+      background: rgb(108, 80, 252);
+      color: white;
+      border: navy;
+      font-weight: 300;
+      padding: 15px 0;
+      line-height: 1;
+  }
+  
+  
+  
+  
+ 
